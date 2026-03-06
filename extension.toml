@@ -2,9 +2,9 @@ id = "pug"
 name = "Pug"
 version = "0.0.1"
 schema_version = 1
-authors = ["BawAppie <pp121324@gmail.com>"]
+authors = ["ngsctt <dev@ngscott.net>"]
 description = "Pug syntax support for Zed"
-repository = "https://github.com/Baw-Appie/zed-pug"
+repository = "https://github.com/ngsctt/zed-pug"
 
 [grammars.pug]
 repository = "https://github.com/zealot128/tree-sitter-pug"
