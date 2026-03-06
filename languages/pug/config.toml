@@ -1,8 +1,8 @@
 name = "Pug"
 grammar = "pug"
 path_suffixes = ["pug"]
-line_comments = ["//"]
-block_comment = ["/*", "*/"]
+line_comments = ["//- "]
+block_comment = ["/* ", " */"]
 autoclose_before = ")}]"
 brackets = [
     { start = "{", end = "}", close = true, newline = true },
